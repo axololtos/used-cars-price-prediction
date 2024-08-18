@@ -1,4 +1,4 @@
-**Project Title: Used Car Price Prediction Model (Minor)**
+<h1>Project Title: Used Car Price Prediction Model (Minor)</h1>
 
 
 This project aims to develop a machine learning model capable of accurately predicting used car prices. Leveraging a comprehensive dataset, the following methodology was employed:
